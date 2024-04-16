@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class update_text : MonoBehaviour
+public class update_text_udp : MonoBehaviour
 {
     public TextMeshProUGUI udp_text;
     private UDPSocket udpsocket;

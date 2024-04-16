@@ -1,4 +1,4 @@
-# program to send udp data to a remote computer
+# program to send and receive udp data to a remote computer
 import socket
 import random
 import time
